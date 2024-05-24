@@ -1,4 +1,4 @@
-# Bash-Shell-Install-Uninstall-Using-APT
+# Installing Suricata & TCPdump using APT on VM running Debian-Based Distribution of Linux
 
 In this lab, I used the Advanced Package Tool (APT) and "sudo" to install and uninstall applications in a Linux Bash shell.
 

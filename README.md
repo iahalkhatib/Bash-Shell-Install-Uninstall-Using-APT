@@ -1,3 +1,8 @@
+![image](https://github.com/iahalkhatib/Install-Uninstall-Applications-on-Linux-Debian-Based-System-Lab-1/assets/170050432/85939291-0077-49d5-b6ec-7902bbebab43)
+
+![image](https://github.com/iahalkhatib/Install-Uninstall-Applications-on-Linux-Debian-Based-System-Lab-1/assets/170050432/5f267dbe-1bae-4523-8fec-80d99baf3acf)
+
+
 # Installing Suricata & TCPdump using APT on VM running Debian-Based Distribution of Linux
 
 In this lab, I used the Advanced Package Tool (APT) and "sudo" to install and uninstall applications in a Linux Bash shell.
